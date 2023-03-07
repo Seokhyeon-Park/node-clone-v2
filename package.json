@@ -1,7 +1,7 @@
 {
-  "name": "zoom-clone-v2",
+  "name": "node-clone-v2",
   "version": "1.0.0",
-  "description": "new neo zoom clone zz",
+  "description": "node-clone-v2",
   "license": "ISC",
   "scripts": {
     "dev": "nodemon"
